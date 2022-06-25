@@ -51,4 +51,4 @@ function monthPrinter(month){
     }
 }
 
-
+monthPrinter();
