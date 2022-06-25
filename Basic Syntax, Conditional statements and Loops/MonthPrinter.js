@@ -51,16 +51,4 @@ function monthPrinter(month){
     }
 }
 
-monthPrinter(1);
-monthPrinter(2);
-monthPrinter(3);
-monthPrinter(4);
-monthPrinter(5);
-monthPrinter(6);
-monthPrinter(7);
-monthPrinter(8);
-monthPrinter(9);
-monthPrinter(10);
-monthPrinter(11);
-monthPrinter(12);
-monthPrinter(13);
+
