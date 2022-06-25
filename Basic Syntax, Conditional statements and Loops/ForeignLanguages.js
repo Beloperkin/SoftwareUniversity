@@ -1,4 +1,4 @@
-function foreignLanguages (country)
+function foreignLanguages(country)
 {
     switch(country)
     {
@@ -34,3 +34,4 @@ function foreignLanguages (country)
     }
 }
 
+foreignLanguages();
