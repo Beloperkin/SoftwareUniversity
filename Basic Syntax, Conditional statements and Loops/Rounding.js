@@ -7,4 +7,4 @@ function rounding(number, precision){
     console.log(parseFloat(number.toFixed(precision)));
 }
 
-rounding()
+rounding();
