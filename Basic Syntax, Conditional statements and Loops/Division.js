@@ -26,4 +26,4 @@ function division(number){
     }
 }
 
-division(12)
+division()
