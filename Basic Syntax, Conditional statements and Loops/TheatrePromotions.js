@@ -56,4 +56,4 @@ function theatrePromotions(age, typeOfDay){
     }
 }
 
-theatrePromotions(18, 'Weekend');
+theatrePromotions();
