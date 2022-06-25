@@ -13,4 +13,4 @@ function triangleOfNumbers(number){
     }
 }
 
-triangleOfNumbers(5);
+triangleOfNumbers();
