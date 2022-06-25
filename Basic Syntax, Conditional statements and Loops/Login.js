@@ -32,4 +32,4 @@ function login(input){
     }
 }
 
-login([])
+login();
