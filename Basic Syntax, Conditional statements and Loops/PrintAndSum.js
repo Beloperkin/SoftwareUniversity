@@ -24,4 +24,4 @@ function printAndSum(num1, num2){
 
 }
 
-printAndSum()
+printAndSum();
