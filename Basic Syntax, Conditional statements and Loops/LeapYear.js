@@ -10,4 +10,4 @@ function leapYear(year){
     }
 }
 
-leapYear(1984)
+leapYear()
