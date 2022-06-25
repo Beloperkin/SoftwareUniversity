@@ -75,8 +75,4 @@ function vacantion(people, type, day){
 }
 
 
-vacantion(30,
-
-    "Students",
-    
-    "Sunday")
+vacantion();
