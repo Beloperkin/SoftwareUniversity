@@ -34,9 +34,3 @@ function foreignLanguages (country)
     }
 }
 
-foreignLanguages('USA');
-foreignLanguages('England');
-foreignLanguages('Mexico');
-foreignLanguages('Argentina');
-foreignLanguages('Spain');
-foreignLanguages('Bulgaria');
