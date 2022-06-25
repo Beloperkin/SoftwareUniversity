@@ -10,4 +10,4 @@ function leapYear(year){
     }
 }
 
-leapYear()
+leapYear();
