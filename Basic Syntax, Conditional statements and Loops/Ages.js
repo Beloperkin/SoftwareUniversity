@@ -27,4 +27,4 @@ function age(age){
 
 }
 
-age()
+age();
